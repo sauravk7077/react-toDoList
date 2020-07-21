@@ -28,4 +28,4 @@ npm start
 localhost:3000
 ```
 
-### Enjoy the app 👍.###
+### Enjoy the app 👍.
